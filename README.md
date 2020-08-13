@@ -1,10 +1,8 @@
-## My research Background
+## Research 
 
-You can use the [editor on GitHub](https://github.com/kkyong77/profile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My current research focuses on improving the understanding of how hyporheic zone processs interacts with dynamic hydrologic conditions and geomorphic processes and diverse sources of nutrients and quantifying the processes at multiple temporal and spatial scale. In particular, quantification of denitrifcation and respiration processes in the hyporheic zone is the first priority. Previous study have used field measurement and mechanistic modeling approach to quantify the role of hyporheic zone process in terms of stream and groundwater flow and their quality. However, the scale of their study is often limited to reach scale and low order streams. In my study, we use a process-based modeling appraoch to quantify the basin scale hyporheic zone process and the study site is the whole columiba river basin. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### MY Education 
+### Education 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
