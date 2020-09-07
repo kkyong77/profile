@@ -27,3 +27,26 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 
 ### Publications
 
+## JOURNAL PAPERS In Preparation
+•	Accuracy assessment of models for predicting multi-scale spatial and temporal soil moisture using multiple methods
+•	Effect of forest harvesting and recovery on streamflow and stream dissolved organic carbon and nitrate in Neversink Reservoir streams
+•	Experimental investigation of the effects of vegetation on morphodynamics and sediment sorting processes in a large scale outdoor laboratory
+•	Stream nitrate in relation to atmospheric nitrogen sources, catchment hydrologic dynamics, and connectivity in the Catskill Mountain
+•	Comparative study in detecting the impact of watershed management and climate variability on water quality trends in New York City water supply watersheds
+•	Key controls on spatial and temporal variability of dissolved organic carbon in Neversink River basin
+•	Comparison of RHESSys and SWAT for predicting hydrologic conditions in two small watersheds, Catskill mountain regions
+•	K. Son and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds
+•	CL, Jang, J. Nelson, K. Son, Y. Shimizu, Numerical simulation of effects of varying sediment supply on braided river morphology
+
+## PUBLISHED JOURNAL PAPERS
+- Contosta et al., Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities, Ecological Applications
+- Son K., E. Owens, L. Lin and L. Band, Integrating climate, forest ecosystem and hydrology to estimate forested catchment dissolved organic carbon export, Hydrological Processes
+-	K. Son, Tague, C. A top-down soil moisture and sap flux sampling design of a rain-snow transition mountain watershed, Hydrological Processes
+-	K. Son and Tague, C. Effect of climate warming on ecohydrologic fluxes of two Sierra Nevada watersheds, Ecohydrology ; 10.1002/eco.2053
+-	K. Son, Tague. C and Hunsaker, C.T Effects of Model Spatial Resolution on Ecohydrologic Predictions and Their Sensitivity to Inter-Annual Climate Variability, Water 2016, 8, 321; doi:10.3390/w8080321
+-	J.Kim, J. Noh, K.Son, I.Kim. Impacts of GIS data quality on determination of runoff and suspended sediments in the Imha watershed in Korea, Geosciences Journal, Vol. 16, No. 2. (1 June 2012), pp. 181-192, doi:10.1007/s12303-012-0013-8.
+-	J. Kim, K. Son, J. Noh and S. Lee. Estimation of Suspended Sediment Load in Imha- Andong Watershed using SWAT Model, J. of KSEE / Vol. 30, No. 12, 2008.
+-	K. Son, and Kim, J., Application of Proxy-basin Differential Split-Sampling and Blind- Validation Tests for Evaluating Hydrological Impact of Climate change Using SWAT, Journal of KWRA, Vol. 41, No. 10, 969-982, 2008. 10.
+-	K. Son and M. Sivapalan. Improving model structure and reducing parameter uncertainty in conceptual water balance models through the use of auxiliary data, Water Resources Research, VOL. 43, W01415, doi: 10.1029/2006WR005032, 2007.
+ -	J. Kim, K. Son, J. Noh, C. Jang and I. Ko. Multi-variable and multi-site calibration and validation of SWAT for the Gap river catchment, Korea Water Resources Association, 2006.
+-	J. Kim, K. Son, J. Noh C. Jang and I. Ko. Evaluation of Urbanization effect and analysis of hydrological characteristics in the Gap river catchment using SWAT, Korea Water Resources Association, 2006
