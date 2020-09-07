@@ -1,9 +1,9 @@
 
 ### Current Research 
-
+![SFA](HBPD_banner.jpg)
 My current research focuses on improving the understanding of how hyporheic zone processs interact with dynamic hydrologic conditions and geomorphic processes and diverse sources of nutrients and quantifying the processes at multiple scales.  In particular, quantification of denitrifcation and respiration processes in the hyporheic zone is the first priority. Previous study have used field measurement and mechanistic modeling approach to quantify the role of hyporheic zone process in terms of stream and groundwater flow and their qualities. However, the scale of their study is often limited to reach scale and low order streams. In this study, we develop a process-based modeling appraoch to quantify the basin scale hyporheic zone processes in the Columiba River Basin. 
 Detailed information can be found at the [Project website](https://sbrsfa.pnnl.gov/).
-![SFA](HBPD_banner.jpg)
+
 
 ### SUMMARY OF QUALIFICATIONS
 - Expertise in hydrologic science, soil science, plant physiology and water quality
