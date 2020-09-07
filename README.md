@@ -39,8 +39,9 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 -	CL, Jang, J. Nelson, K. Son, Y. Shimizu, Numerical simulation of effects of varying sediment supply on braided river morphology
 
 #### PUBLISHED JOURNAL PAPERS
+- Yang, Y.E., **Son, K.**, Hung, F. and Tidwell, V., 2020. Impact of climate change on adaptive management decisions in the face of water scarcity. Journal of Hydrology, p.125015
 - Contosta et al., Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities, Ecological Applications
-- Son K., E. Owens, L. Lin and L. Band, Integrating climate, forest ecosystem and hydrology to estimate forested catchment dissolved organic carbon export, Hydrological Processes
+- **K.Son**., E. Owens, L. Lin and L. Band, Integrating climate, forest ecosystem and hydrology to estimate forested catchment dissolved organic carbon export, Hydrological Processes
 -	**K. Son**, Tague, C. A top-down soil moisture and sap flux sampling design of a rain-snow transition mountain watershed, Hydrological Processes
 -	**K. Son** and Tague, C. Effect of climate warming on ecohydrologic fluxes of two Sierra Nevada watersheds, Ecohydrology ; 10.1002/eco.2053
 -	**K. Son**, Tague. C and Hunsaker, C.T Effects of Model Spatial Resolution on Ecohydrologic Predictions and Their Sensitivity to Inter-Annual Climate Variability, Water 2016, 8, 321; doi:10.3390/w8080321
