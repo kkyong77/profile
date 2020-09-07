@@ -40,7 +40,7 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 
 #### PUBLISHED JOURNAL PAPERS
 - Yang, Y.E., **Son, K.**, Hung, F. and Tidwell, V., 2020. Impact of climate change on adaptive management decisions in the face of water scarcity. Journal of Hydrology, p.125015
-- Contosta et al., 2020, Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities, Ecological Applications
+- Contosta, A.R., Casson, N.J., Garlick, S., Nelson, S.J., Ayres, M.P., Burakowski, E.A., Campbell, J., Creed, I., Eimers, C., Evans, C. and Fernandez, I., 2019. Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities. Ecological Applications, 29(7), p.e01974
 - **Son, K.**., E. Owens, L. Lin and L. Band, Integrating climate, forest ecosystem and hydrology to estimate forested catchment dissolved organic carbon export, Hydrological Processes
 -	**Son, K.**, Tague, C. A top-down soil moisture and sap flux sampling design of a rain-snow transition mountain watershed, Hydrological Processes
 -	**Son, K.** and Tague, C. Effect of climate warming on ecohydrologic fluxes of two Sierra Nevada watersheds, Ecohydrology ; 10.1002/eco.2053
