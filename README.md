@@ -45,7 +45,7 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 -	**Son, K.**, Tague, C. A top-down soil moisture and sap flux sampling design of a rain-snow transition mountain watershed, Hydrological Processes
 -	**Son, K.** and Tague, C. Effect of climate warming on ecohydrologic fluxes of two Sierra Nevada watersheds, Ecohydrology ; 10.1002/eco.2053
 -	**Son, K.**, Tague. C and Hunsaker, C.T Effects of Model Spatial Resolution on Ecohydrologic Predictions and Their Sensitivity to Inter-Annual Climate Variability, Water 2016, 8, 321; doi:10.3390/w8080321
--	J.Kim, J. Noh, **K.Son**, I.Kim. Impacts of GIS data quality on determination of runoff and suspended sediments in the Imha watershed in Korea, Geosciences Journal, Vol. 16, No. 2. (1 June 2012), pp. 181-192, doi:10.1007/s12303-012-0013-8.
+-	Kim, J., Noh, J., **Son, K.** and Kim, I., 2012. Impacts of GIS data quality on determination of runoff and suspended sediments in the Imha watershed in Korea. Geosciences Journal, 16(2), pp.181-192.
 -	J. Kim, **K. Son**, J. Noh and S. Lee. Estimation of Suspended Sediment Load in Imha- Andong Watershed using SWAT Model, J. of KSEE / Vol. 30, No. 12, 2008.
 -	**Son, K.**, and Kim, J., Application of Proxy-basin Differential Split-Sampling and Blind- Validation Tests for Evaluating Hydrological Impact of Climate change Using SWAT, Journal of KWRA, Vol. 41, No. 10, 969-982, 2008. 10.
 -	**K. Son** and M. Sivapalan. Improving model structure and reducing parameter uncertainty in conceptual water balance models through the use of auxiliary data, Water Resources Research, VOL. 43, W01415, doi: 10.1029/2006WR005032, 2007.
