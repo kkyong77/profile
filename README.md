@@ -41,6 +41,13 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 -	CL, Jang, J. Nelson, K. Son, Y. Shimizu, Numerical simulation of effects of varying sediment supply on braided river morphology
 
 #### PUBLISHED JOURNAL PAPERS
+Danczak, R.E., Garayburu-Caruso, V.A., Renteria, L., McKever, S.A., Otenburg, O.C., Grieger, S.R., **Son, K.**, Kaufman, M.H., Fulton, S.G., Roebuck, J.A. and Myers-Pigg, A.N., 2023. Riverine organic matter functional diversity increases with catchment size. Frontiers in Water, 5, p.1087108.
+-	**Son, K.**, Fang, Y., Gomez‐Velez, J.D., Byun, K. and Chen, X., 2022. Combined Effects of Stream Hydrology and Land Use on Basin‐Scale Hyporheic Zone Denitrification in the Columbia River Basin. Water Resources Research, 58(12), p.e2021WR031131. 
+-	Mudunuru, M.K., Son, K., Jiang, P., Hammond, G. and Chen, X., 2022. Scalable deep learning for watershed model calibration. Frontiers in Earth Science, 10, p.1026479. 
+-	**Son, K.**, Fang, Y., Gomez‐Velez, J.D. and Chen, X., 2022. Spatial microbial respiration variations in the hyporheic zones within the Columbia River Basin. Journal of Geophysical Research: Biogeosciences, 127(11), p.e2021JG006654. 
+-	Jiang, P., **Son, K.**, Mudunuru, M.K. and Chen, X., 2022. Using mutual information for global sensitivity analysis on watershed modeling. Water Resources Research, 58(10), p.e2022WR032932. 
+-	Hung, F., **Son, K.** and Yang, Y.E., 2022. Investigating uncertainties in human adaptation and their impacts on water scarcity in the Colorado river Basin, United States. Journal of Hydrology, 612, p.128015. 
+-	Chen, X., Lee, R.M., Dwivedi, D., **Son, K.**, Fang, Y., Zhang, X., Graham, E., Stegen, J., Fisher, J.B., Moulton, D. and Scheibe, T.D., 2021. Integrating field observations and process-based modeling to predict watershed water quality under environmental perturbations. Journal ofHydrology, 602, p.125762. 
 - Yang, Y.E., **Son, K.**, Hung, F. and Tidwell, V., 2020. Impact of climate change on adaptive management decisions in the face of water scarcity. Journal of Hydrology, p.125015
 - Contosta, A.R., Casson, N.J., Garlick, S., Nelson, S.J., Ayres, M.P., Burakowski, E.A., Campbell, J., Creed, I., Eimers, C., Evans, C. and Fernandez, I., 2019. Northern forest winters have lost cold, snowy conditions that are important for ecosystems and human communities. Ecological Applications, 29(7), p.e01974
 - **Son, K.**, Lin, L., Band, L. and Owens, E.M., 2019. Modelling the interaction of climate, forest ecosystem, and hydrology to estimate catchment dissolved organic carbon export. Hydrological Processes, 33(10), pp.1448-1464.
