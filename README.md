@@ -6,6 +6,8 @@ My current research focuses on improving the understanding of how hyporheic zone
 Detailed information can be found at the [Project website](https://sbrsfa.pnnl.gov/).
 
 
+
+
 ### SUMMARY OF QUALIFICATIONS
 - Expertise in hydrologic science, soil science, plant physiology and water quality
 - Distributed ecohydrologic modeling, sediment yield modeling, model parameterization, model evaluation and uncertainty analysis
@@ -41,7 +43,7 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 -	CL, Jang, J. Nelson, K. Son, Y. Shimizu, Numerical simulation of effects of varying sediment supply on braided river morphology
 
 #### PUBLISHED JOURNAL PAPERS
-Danczak, R.E., Garayburu-Caruso, V.A., Renteria, L., McKever, S.A., Otenburg, O.C., Grieger, S.R., **Son, K.**, Kaufman, M.H., Fulton, S.G., Roebuck, J.A. and Myers-Pigg, A.N., 2023. Riverine organic matter functional diversity increases with catchment size. Frontiers in Water, 5, p.1087108.
+- Danczak, R.E., Garayburu-Caruso, V.A., Renteria, L., McKever, S.A., Otenburg, O.C., Grieger, S.R., **Son, K.**, Kaufman, M.H., Fulton, S.G., Roebuck, J.A. and Myers-Pigg, A.N., 2023. Riverine organic matter functional diversity increases with catchment size. Frontiers in Water, 5, p.1087108.
 -	**Son, K.**, Fang, Y., Gomez‐Velez, J.D., Byun, K. and Chen, X., 2022. Combined Effects of Stream Hydrology and Land Use on Basin‐Scale Hyporheic Zone Denitrification in the Columbia River Basin. Water Resources Research, 58(12), p.e2021WR031131. 
 -	Mudunuru, M.K., Son, K., Jiang, P., Hammond, G. and Chen, X., 2022. Scalable deep learning for watershed model calibration. Frontiers in Earth Science, 10, p.1026479. 
 -	**Son, K.**, Fang, Y., Gomez‐Velez, J.D. and Chen, X., 2022. Spatial microbial respiration variations in the hyporheic zones within the Columbia River Basin. Journal of Geophysical Research: Biogeosciences, 127(11), p.e2021JG006654. 
