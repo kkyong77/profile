@@ -1,12 +1,12 @@
 
-### Current Research 
-![SFA](HBPD_banner.jpg)
-
-My current research focuses on improving the understanding of how hyporheic zone processs interact with dynamic hydrologic conditions and geomorphic processes and diverse sources of nutrients and quantifying the processes at multiple scales.  In particular, quantification of denitrifcation and respiration processes in the hyporheic zone is the first priority. Previous study have used field measurement and mechanistic modeling approach to quantify the role of hyporheic zone process in terms of stream and groundwater flow and their qualities. However, the scale of their study is often limited to reach scale and low order streams. In this study, we develop a process-based modeling appraoch to quantify the basin scale hyporheic zone processes in the Columiba River Basin. 
-Detailed information can be found at the [Project website](https://sbrsfa.pnnl.gov/).
-
-
-
+### Research Interest/Background
+-Strong expertise in hydrologic science, soil science, plant physiology, and water quality
+-Extensive experience in distributed ecohydrological modeling, sediment yield modeling, watershed and stream biogeochemistry modeling, including model parameterization, evaluation, and uncertainty analysis
+-Skilled in climate change and land-use impact analysis
+-Proficient in GIS and remote sensing applications for urban and forest management
+-Experienced in AI/ML methods and agent-based modeling for environmental systems
+-Expertise in hydropower and water resources modeling
+-Proven ability in environmental data collection, including field sampling design and advanced data analysis
 
 ### SUMMARY OF QUALIFICATIONS
 - Expertise in hydrologic science, soil science, plant physiology and water quality
@@ -32,17 +32,18 @@ Detailed information can be found at the [Project website](https://sbrsfa.pnnl.g
 ### Publications
 
 #### JOURNAL PAPERS In Preparation
--	Accuracy assessment of models for predicting multi-scale spatial and temporal soil moisture using multiple methods
--	Effect of forest harvesting and recovery on streamflow and stream dissolved organic carbon and nitrate in Neversink Reservoir streams
--	Experimental investigation of the effects of vegetation on morphodynamics and sediment sorting processes in a large scale outdoor laboratory
--	Stream nitrate in relation to atmospheric nitrogen sources, catchment hydrologic dynamics, and connectivity in the Catskill Mountain
--	Comparative study in detecting the impact of watershed management and climate variability on water quality trends in New York City water supply watersheds
--	Key controls on spatial and temporal variability of dissolved organic carbon in Neversink River basin
--	Comparison of RHESSys and SWAT for predicting hydrologic conditions in two small watersheds, Catskill mountain regions
--	K. Son and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds
--	CL, Jang, J. Nelson, K. Son, Y. Shimizu, Numerical simulation of effects of varying sediment supply on braided river morphology
-
+-Jang, CL., Son, K. Experimental investigation of the effects of vegetation on morphodynamics and sediment sorting processes in a large-scale outdoor laboratory
+-Son, K and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds, Journal of hydrology
+-Son, K et al., Planting or Prevented Planting? Machine Learning Insights Into Farmer Decision-Making.
+-Son, K et al., A Machine Learning–Guided Agent-Based Model for Simulating Prevented Planting.
+-Son, K et al., Evaluating the Impact of Extreme Events on Water Bottle Sales: Analyzing Magnitude and Response Time Across Event Types.
+-Son, K et al., Reservoir Operation Flexibility in Hydropower Production During Extreme Events.
+  
 #### PUBLISHED JOURNAL PAPERS
+-Jang, C.L., Shimizu, Y. and **Son, K.**., 2025. Impact of Mixed Grain Size Sediment Input on Braided River Morphodynamics: Insights from Experimental and Numerical Modeling. KSCE Journal of Civil Engineering, p.100288.
+-Regier, P., Chen, Y., **Son, K.**., Bao, J., Forbes, B., Goldman, A.E., Kaufman, M., Rod, K. and Stegen, J.C., Different Methods of Estimating Riverbed Sediment Grain Size Diverge at the Basin Scale. Frontiers in Earth Science, 13, p.1529503.
+- Regier, P.,**Son, K.**., Chen, X., Fang, Y., Jiang, P., Taylor, M., Wollheim, W.M. and Stegen, J., 2025. Allometric scaling of hyporheic respiration across basins in the Pacific Northwest United States. Journal of Geophysical Research: Biogeosciences, 130(3), p.e2024JG008344.
+- Rathore S.S., D. Svyatskiy, E. Coon, **Son, K.**., and S.L. Painter. 2024. "Modeling the Effects of Artificial Drainage on Agriculture-dominated Watersheds using a Fully Distributed Integrated Hydrology Model." Water Resources Research 60, no. 6:Art. No. e2023WR035993.
 - Danczak, R.E., Garayburu-Caruso, V.A., Renteria, L., McKever, S.A., Otenburg, O.C., Grieger, S.R., **Son, K.**, Kaufman, M.H., Fulton, S.G., Roebuck, J.A. and Myers-Pigg, A.N., 2023. Riverine organic matter functional diversity increases with catchment size. Frontiers in Water, 5, p.1087108.
 -	**Son, K.**, Fang, Y., Gomez‐Velez, J.D., Byun, K. and Chen, X., 2022. Combined Effects of Stream Hydrology and Land Use on Basin‐Scale Hyporheic Zone Denitrification in the Columbia River Basin. Water Resources Research, 58(12), p.e2021WR031131. 
 -	Mudunuru, M.K., Son, K., Jiang, P., Hammond, G. and Chen, X., 2022. Scalable deep learning for watershed model calibration. Frontiers in Earth Science, 10, p.1026479. 
