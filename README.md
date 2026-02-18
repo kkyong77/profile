@@ -1,12 +1,12 @@
 
 ### Research Interest/Background
--Strong expertise in hydrologic science, soil science, plant physiology, and water quality
--Extensive experience in distributed ecohydrological modeling, sediment yield modeling, watershed and stream biogeochemistry modeling, including model parameterization, evaluation, and uncertainty analysis
--Skilled in climate change and land-use impact analysis
--Proficient in GIS and remote sensing applications for urban and forest management
--Experienced in AI/ML methods and agent-based modeling for environmental systems
--Expertise in hydropower and water resources modeling
--Proven ability in environmental data collection, including field sampling design and advanced data analysis
+- Strong expertise in hydrologic science, soil science, plant physiology, and water quality
+- Extensive experience in distributed ecohydrological modeling, sediment yield modeling, watershed and stream biogeochemistry modeling, including model parameterization, evaluation, and uncertainty analysis
+- Skilled in climate change and land-use impact analysis
+- Proficient in GIS and remote sensing applications for urban and forest management
+- Experienced in AI/ML methods and agent-based modeling for environmental systems
+- Expertise in hydropower and water resources modeling
+- Proven ability in environmental data collection, including field sampling design and advanced data analysis
 
 ### SUMMARY OF QUALIFICATIONS
 - Expertise in hydrologic science, soil science, plant physiology and water quality
@@ -32,16 +32,16 @@
 ### Publications
 
 #### JOURNAL PAPERS In Preparation
--Jang, CL., Son, K. Experimental investigation of the effects of vegetation on morphodynamics and sediment sorting processes in a large-scale outdoor laboratory
--Son, K and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds, Journal of hydrology
--Son, K et al., Planting or Prevented Planting? Machine Learning Insights Into Farmer Decision-Making.
--Son, K et al., A Machine Learning–Guided Agent-Based Model for Simulating Prevented Planting.
--Son, K et al., Evaluating the Impact of Extreme Events on Water Bottle Sales: Analyzing Magnitude and Response Time Across Event Types.
--Son, K et al., Reservoir Operation Flexibility in Hydropower Production During Extreme Events.
+- Jang, CL., Son, K. Experimental investigation of the effects of vegetation on morphodynamics and sediment sorting processes in a large-scale outdoor laboratory
+- Son, K and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds, Journal of hydrology
+- Son, K et al., Planting or Prevented Planting? Machine Learning Insights Into Farmer Decision-Making.
+- Son, K et al., A Machine Learning–Guided Agent-Based Model for Simulating Prevented Planting.
+- Son, K et al., Evaluating the Impact of Extreme Events on Water Bottle Sales: Analyzing Magnitude and Response Time Across Event Types.
+- Son, K et al., Reservoir Operation Flexibility in Hydropower Production During Extreme Events.
   
 #### PUBLISHED JOURNAL PAPERS
--Jang, C.L., Shimizu, Y. and **Son, K.**., 2025. Impact of Mixed Grain Size Sediment Input on Braided River Morphodynamics: Insights from Experimental and Numerical Modeling. KSCE Journal of Civil Engineering, p.100288.
--Regier, P., Chen, Y., **Son, K.**., Bao, J., Forbes, B., Goldman, A.E., Kaufman, M., Rod, K. and Stegen, J.C., Different Methods of Estimating Riverbed Sediment Grain Size Diverge at the Basin Scale. Frontiers in Earth Science, 13, p.1529503.
+- Jang, C.L., Shimizu, Y. and **Son, K.**., 2025. Impact of Mixed Grain Size Sediment Input on Braided River Morphodynamics: Insights from Experimental and Numerical Modeling. KSCE Journal of Civil Engineering, p.100288.
+- Regier, P., Chen, Y., **Son, K.**., Bao, J., Forbes, B., Goldman, A.E., Kaufman, M., Rod, K. and Stegen, J.C., Different Methods of Estimating Riverbed Sediment Grain Size Diverge at the Basin Scale. Frontiers in Earth Science, 13, p.1529503.
 - Regier, P.,**Son, K.**., Chen, X., Fang, Y., Jiang, P., Taylor, M., Wollheim, W.M. and Stegen, J., 2025. Allometric scaling of hyporheic respiration across basins in the Pacific Northwest United States. Journal of Geophysical Research: Biogeosciences, 130(3), p.e2024JG008344.
 - Rathore S.S., D. Svyatskiy, E. Coon, **Son, K.**., and S.L. Painter. 2024. "Modeling the Effects of Artificial Drainage on Agriculture-dominated Watersheds using a Fully Distributed Integrated Hydrology Model." Water Resources Research 60, no. 6:Art. No. e2023WR035993.
 - Danczak, R.E., Garayburu-Caruso, V.A., Renteria, L., McKever, S.A., Otenburg, O.C., Grieger, S.R., **Son, K.**, Kaufman, M.H., Fulton, S.G., Roebuck, J.A. and Myers-Pigg, A.N., 2023. Riverine organic matter functional diversity increases with catchment size. Frontiers in Water, 5, p.1087108.
