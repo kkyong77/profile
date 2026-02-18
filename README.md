@@ -36,9 +36,12 @@
 - Son, K and Tague, C Importance of soil parameter uncertainty in assessing climate change projections in small two Sierra Nevada watersheds, Journal of hydrology
 - Son, K et al., Planting or Prevented Planting? Machine Learning Insights Into Farmer Decision-Making.
 - Son, K et al., A Machine Learning–Guided Agent-Based Model for Simulating Prevented Planting.
-- Son, K et al., Evaluating the Impact of Extreme Events on Water Bottle Sales: Analyzing Magnitude and Response Time Across Event Types.
 - Son, K et al., Reservoir Operation Flexibility in Hydropower Production During Extreme Events.
-  
+- Son K. et al., "A Diagnostic Investigation of the Uncertainty Cascade: How Meteorological Forcing Shapes Hydrologic Model Performance, Parameterization, and Sensitivity"
+####   Submitted Journal Papers
+- Garayburu-Caruso V.A., M. Kaufman, B.K. Forbes, X. Lin, B. Hall, S.G. Fulton, and L. Renteria, et al. "Sediment-associated processes drive spatial variation in ecosystem respiration in the Yakima River basin." Nature Communications Earth & Environment
+- Danczak R.E., V.A. Garayburu-Caruso, L. Renteria, O.C. Otenburg, K. Son, M. Kaufman, and M.E. Barnes, et al. 2025. "Non-random processes impacting organic matter chemistry are maximized in mid-order streams." Science Advances. PNNL-SA-213097.
+- Son K., T.K. Tesfa, and V.C. Tidwell. 2026. "Retail Bottled Water Sales Behavior Under Extreme Events." Earth's Future
 #### PUBLISHED JOURNAL PAPERS
 - Jang, C.L., Shimizu, Y. and **Son, K.**., 2025. Impact of Mixed Grain Size Sediment Input on Braided River Morphodynamics: Insights from Experimental and Numerical Modeling. KSCE Journal of Civil Engineering, p.100288.
 - Regier, P., Chen, Y., **Son, K.**., Bao, J., Forbes, B., Goldman, A.E., Kaufman, M., Rod, K. and Stegen, J.C., Different Methods of Estimating Riverbed Sediment Grain Size Diverge at the Basin Scale. Frontiers in Earth Science, 13, p.1529503.
