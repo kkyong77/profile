@@ -1,5 +1,7 @@
+## Research Interest
+Watershed Hydrologic Scientist with 10+ years of experience in hydrologic and ecohydrological modeling, focusing on watershed processes, climate impacts, and water quality dynamics. My work integrates AI/ML and agent-based modeling to simulate human decision-making and characterize model uncertainty, informing sustainable water and environmental management. Skilled in model development, validation, uncertainty analysis, and environmental data collection, I lead projects that advance actionable solutions for water and ecosystem challenges.
 
-### Research Interest/Background
+### SUMMARY OF QUALIFICATIONS
 - Strong expertise in hydrologic science, soil science, plant physiology, and water quality
 - Extensive experience in distributed ecohydrological modeling, sediment yield modeling, watershed and stream biogeochemistry modeling, including model parameterization, evaluation, and uncertainty analysis
 - Skilled in climate change and land-use impact analysis
@@ -7,14 +9,6 @@
 - Experienced in AI/ML methods and agent-based modeling for environmental systems
 - Expertise in hydropower and water resources modeling
 - Proven ability in environmental data collection, including field sampling design and advanced data analysis
-
-### SUMMARY OF QUALIFICATIONS
-- Expertise in hydrologic science, soil science, plant physiology and water quality
-- Distributed ecohydrologic modeling, sediment yield modeling, model parameterization, model evaluation and uncertainty analysis
--	Watershed and stream biogeochemistry modeling
--	Climate change and land use impact analysis
--	Skilled in environmental data collection (including sampling design) and analysis
--	GIS and remotely sensed data analysis for urban/forest management
 
 ### Education 
 - **2015**  Ph.D. in the Environmental Science and Management at the University of California, Santa Barbara
